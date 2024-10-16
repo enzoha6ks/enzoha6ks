@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @enzoha6ks
+- 👀 I’m interested in programming,WebApp testing.
+- 🌱 I’m currently learning Web devolopment.
+- 📫 How to reach me enzoha6ks on discord
