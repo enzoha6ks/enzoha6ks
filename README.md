@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Qasim Shahzad
-- 👀 I’m interested in Programming , WebApp testing ,Software development,Cyber security.
-- 🌱 I’m currently learning Web devolopment,Reverse engineering,Malware development.
-- 📫 How to reach me arkar#1122 on discord.
+- 👋 Hi, I’m Qasim Shahzad.  
+- 💻 Passionate about Programming, Web App Testing, Software Development, and Cybersecurity.  
+- 🚀 Constantly learning and building innovative solutions.  
+- 🌱 Open to collaborating on impactful projects.  
